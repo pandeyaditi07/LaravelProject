@@ -1,0 +1,20 @@
+body{
+    background-color: yellow;
+} 
+.form-full-cont{
+    justify-content: center; 
+    margin-top: 15%; 
+} 
+.form-control{
+    border-radius: 12px; 
+    border: 1px solid blue; 
+} 
+.label-form{
+    font-weight: bold;
+} 
+.button-form-submit{
+    border-radius: 12px; 
+    padding: 5px; 
+    color: white; 
+    font-size: 1.5em;
+}
